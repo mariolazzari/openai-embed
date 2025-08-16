@@ -17,3 +17,10 @@
 
 ## Leverage cosine similarity
 
+Cosine distance of the angle between two vectors.
+Compute similarity between documents and queries.
+
+- -1: complete opposite
+- 0: no relationship
+- 1: perfectly aligned
+
