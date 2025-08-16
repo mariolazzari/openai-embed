@@ -24,3 +24,12 @@ Compute similarity between documents and queries.
 - 0: no relationship
 - 1: perfectly aligned
 
+## Embeddings API
+
+### Explore API
+
+[Embeddings API](https://platform.openai.com/docs/guides/embeddings)
+
+- Input: text
+- Output: vector of values (default floats)
+
